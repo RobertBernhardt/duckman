@@ -452,6 +452,11 @@ section {
     margin-bottom: 0;
 }
 
+.testimonial-btn {
+    margin-top: 2rem;
+    display: inline-block;
+}
+
 /* AI Toys Section */
 .ai-toys {
     background-color: #f0f9ff;
